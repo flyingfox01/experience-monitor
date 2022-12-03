@@ -10,5 +10,8 @@ export default (appInfo: MidwayAppInfo) => {
     // security: {
     //   csrf: false,
     // },
+    view: {
+      defaultViewEngine: 'nunjucks',
+    },
   } as MidwayConfig;
 };

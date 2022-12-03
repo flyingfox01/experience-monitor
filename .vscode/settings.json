@@ -1,0 +1,4 @@
+{
+    "prettier.requireConfig": true,
+    "eslint.format.enable": true
+}
